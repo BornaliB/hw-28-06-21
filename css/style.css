@@ -1,0 +1,11 @@
+body{margin: 0;padding: 0;}
+header{border-bottom: solid;border-color: #EDEEEE;}
+.container{ overflow: hidden; width: 90%;height: auto;margin: 0 auto}
+.logo{float: left;width: 10%;}
+.logo a img{width:100%;}
+.menu{float: right;width:40%;margin-right: 0px;}
+.menu ul{list-style: none;float: right;margin-right: 0px;}
+.menu ul li{float: left;}
+.menu ul li a{text-decoration: none;display: inline-block; margin: 10px;text-transform: capitalize;color: #485D78;font-size: 20px;}
+.menu ul li a:hover{color: #0F6AF9;}
+.menu ul li:last-child a{margin-right: 0px;}
