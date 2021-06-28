@@ -9,4 +9,4 @@ header{background-color:black;}
 .menu ul li a{text-decoration: none;display: inline-block; margin: 10px;text-transform: capitalize;color: white;font-size: 20px;}
 .menu ul li a:hover{color: #0F6AF9;}
 .menu ul li:last-child a{margin-right: 0px;}
-.h2{color: white;}
+.h1{width: 80%;height: auto;color: white;font-size: 20px}
